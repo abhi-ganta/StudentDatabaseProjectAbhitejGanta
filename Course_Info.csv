@@ -1,0 +1,26 @@
+Course_ID,Course Name,Course Code
+1,Calculus 1,MATH 120
+2,Calculus 2,MATH 121
+3,Calculus 3,MATH 215
+4,Intro to Differential Equations,MATH 216
+5,General Chemistry,CHEM 130
+6,Intro to Engineering,ENGR 100
+7,Intro to Computer Programming,ENGR 101
+8,Thriving in a Digital World,EECS 101
+9,Elementary Programming Concepts,EECS 183
+10,Economics,ECON 102
+11,General Physics 1,PHYS 140
+12,Elementary Lab 1,PHYS 141
+13,Discrete Mathematics,EECS 203
+14,Programming and Elementary Data Structures,EECS 280
+15,Data Structures and Algorithms,EECS 281
+16,General Physics 2,PHYS 240
+17,Elementary Lab 2,PHYS 241
+18,Introductory Biology,BIOL 172
+19,Intro to Biomechanics,BME 231
+20,Intro to Materials,MATSCIE 220
+21,Intro to Aerospace Engineering,AEROSP 201
+22,Introduction to Solid Mechanics and Aerospace Structures,AEROSP 215
+23,Intro to Gas Dynamics,AEROSP 225
+24,Intro to Civil and Environmental Engineering,CEE 200
+25,Fluid Mechanics,CEE 325
